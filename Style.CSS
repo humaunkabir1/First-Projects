@@ -14,7 +14,8 @@ border-radius: 10px;
 
 }
 .h1-1{
-  margin-left: 600px;
+margin-left: 380px;
+
 
 }
 .chaild-1{
@@ -46,13 +47,13 @@ font-weight: bold;
 
 .parent-2{
 display:flex;
-width:90% ;
+width:60% ;
 justify-content: center;
-gap: 50px;
+gap: 60px;
 margin: auto;
 }
 .h1-2{
-  margin-left: 600px;
+  margin-left: 380px;
 
 }
 .chaild-2{
@@ -88,8 +89,8 @@ margin: auto;
    
 }
 img{
-margin-top: 40px;
 margin-left: 20px;
+padding-top: 30px;
 }
 
 .P-bold{
@@ -98,24 +99,26 @@ font-weight: bold;
 margin-left: 15px;
 }
 .p-regular{
-font-size: 16px;
+font-size: 15px;
 margin-left: 15px;
+
 }
 
 .parent-3{
+  width: 60%;
   display:flex;
   margin: auto;
   justify-content: center;
-gap: 50px;
+  gap: 100px;
 }
 .header{
-  margin-left: 600px;
+  margin-left: 380px;
   font-size: 20px;
 }
 
 .chaild-6{
   background-color: #81B4FC;
-  width: 410.67;
+  width: 410.67px;
   height: 325;
   border-radius: 15px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
@@ -136,8 +139,8 @@ gap: 50px;
 }
 .chaild-7{
   background-color:#C6E4D6;
-  width: 410.67;
-  height: 325;
+  width: 410.67px;
+  height: 325px;
   border-radius: 15px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
  
@@ -157,8 +160,8 @@ gap: 50px;
 }
 .chaild-8{
   background-color:#FFD55D;
-  width: 410.67;
-  height: 325;
+  width: 410.67px;
+  height: 325px;
   border-radius: 15px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   
@@ -178,13 +181,13 @@ gap: 50px;
 }
 
 .parent-4{
-  width: 1280px;
+  width: 60%;
   height: 256px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   background-color: #FFFFFF;
-  border-radius:10px ;
-  margin-top: 50px;
-  margin-left: 600px;
+  border-radius: 10px ;
+ margin:50px auto;
+
 }
 .quote{
   position: relative;
@@ -197,23 +200,21 @@ gap: 50px;
 }
 
 .h-3{
-  margin-left: 600px;
-  margin-top: 80px;
+margin-left:380px;
 }
 .parent-5{
-width: 1280px;
-height: 500px;
-padding: 40px;
-margin-left: 600px;
+width: 60%;
+padding: 20px;
+margin: auto;
 box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   background-color: #FFFFFF;
   border-radius:10px ;
   
 }
 .chaild-9{
-  width: 1230px;
-  height: 65px;
-  padding: 24px;
+
+  height: 60px; 
+  padding: 20px;
 background-color:#C6E4D6; 
 display: flex;
 border: 1px solid gray;
@@ -221,12 +222,13 @@ border: 1px solid gray;
 .P-tag1{
 font-weight: bold;
 font-size: 25px;
-margin-right: 900px;
+margin-right: 750px;
+
 }
 .P-tag2{
   font-weight: bold;
   font-size: 25px;
-  margin-right: 10px;
+
 }
 .chaild-10{
 width: 1017px;
@@ -235,7 +237,8 @@ padding: 24px;
 background-color: #FFFFFF;
 border: 1px solid gray;
 font-size: 22px;
-
+align-items: center;
+display: flex;
 
 }
 .chaild-11{
@@ -244,7 +247,8 @@ font-size: 22px;
  padding: 24px;
  background-color: #FFFFFF;
  border: 1px solid gray;
- font-variant: small-caps;
+align-items: center;
+display: flex;
 }
 .chaild-12{
   width: 1017px;
@@ -253,6 +257,8 @@ font-size: 22px;
   background-color: #FFFFFF;
   border: 1px solid gray;
   font-size: 22px;
+  align-items: center;
+display: flex;
 }
 .chaild-13{
   width: 200px;
@@ -260,6 +266,9 @@ font-size: 22px;
   padding: 24px;
   background-color: #FFFFFF;
   border: 1px solid gray;
+  align-items: center;
+display: flex;
+align-items: center;
 }
 .chaild-14{
   width: 1017px;
@@ -268,6 +277,8 @@ font-size: 22px;
   background-color: #FFFFFF;
   border: 1px solid gray;
   font-size: 22px;
+  align-items: center;
+display: flex;
 }
 .chaild-15{
   width: 200px;
@@ -275,7 +286,8 @@ font-size: 22px;
   padding: 24px;
   background-color: #FFFFFF;
   border: 1px solid gray;
-
+display: flex;
+align-items: center;
 }
 .button-5{
   width: 152px;
@@ -298,26 +310,26 @@ font-size: 22px;
 
 }
 .header-1{
-  margin-left: 600px;
+  padding-top: 30px;
+  margin-left: 380px;
 }
 .img-3{
   float:left;
   width: 408px;
   height: 306px;
-border-radius: 25px;
+border-radius: 25px 25px 25px 25px;
 margin-right: 20px;
 margin-bottom: 20px;
 }
 
 .parent-6{
-width: 1280px;
+width: 57%;
 height: 350px;
-padding: 40px;
+padding:30px;
 box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   background-color: #FFFFFF;
   border-radius:10px ;
-  margin-left: 600px;
-  margin-top: 70px;
+  margin:50px auto;
 }
 .chaild-19{
   margin-top: 50px;
@@ -333,14 +345,13 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   font-size: 15px;
 }
 .parent-7{
-  width: 1280px;
-  height: 402px;
-padding: 48px;
+  width: 57%;
+  height: 350px;
+padding: 30px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
     background-color: #FFFFFF;
     border-radius:10px ;
-margin-left: 600px;
-    margin-top: 70px;
+    margin:50px auto;
 }
 .chaild-20{
 margin-top: 50px;
@@ -353,64 +364,60 @@ border-radius: 25px;
 
 }
 .h1-4{
-  margin-left:1200px ;
+  margin-left:800px ;
 margin-top: 20px;
 }
 .p-tage3{
-  margin-left: 800px;
+  margin-left: 400px;
   font-size: 20px;
 }
 
 .parent-8{
-margin-left: 600px;
-position: relative;
-display: inline-flex;
+display:inline-flex;
+margin-left: 325px;
 
 
 }
 
 
 .chaild-21{
-  width:240px ;
-  height:128px ;
+  display: inline-flex;
+  background-color: #FFFFFF;
+  width: 200px;
+  height: 100px;
   padding: 40px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.1);
-  background-color: #FFFFFF;
-  border-radius:10px ;
-  text-align: center;
-  font-size: 40px;
+  font-size: 30px;
+  align-items: center;
   font-weight: bold;
-justify-content: center;
-align-items: center;
-  margin-top: 20px;
-  margin-right: 10px;
-  display: inline-flex;
-  
+  border-radius: 15px;
+  margin-left: 20px;
+  justify-content: center;
+  position: relative;
 
+  
 }
 .chaild-21:hover{
   background-color:#C6E4D6 ;
-  transition-duration: 3s;
- 
-
+  transition-duration: 1s;
 }
 
 .chaild-25{
-width:1200px;
+width:60%;
 height: 20px;
 padding: 40px;
 box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 background-color: #FFFFFF;
 border-radius:10px ;
-margin-top: 50px;
-margin-left: 650px
+margin: 50px auto;
+
 }
 .input{
   font-size: 20px;
   border: none;
   text-align: center;
   justify-content: center;
-  margin-left: 400px;
+  padding-left: 400px;
 }
 .button-7{
   background-color: #006A50;
@@ -419,25 +426,27 @@ margin-left: 650px
   padding: 20px;
   color:#FFFFFF ;
   border-radius:10px ;
-  margin-bottom: 20px;
-  margin-left: 1200px;
-  margin-top:30px;
+  margin: 50px auto;
   font-size: 15px;
   display: flex; 
   align-items: center;
   justify-content: center;
 }
-
+.parent-9{
+  width: 60%;
+  margin: auto;
+ display: flex;
+}
 .box{
-width: 1280px;
-height: 350px;
-padding: 100px;
+width: 1150px;
+height: 300px;
+padding: 30px;
 background-color: #C6E4D6;
-margin-left: 550px;
 box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 border-radius: 15px;
 justify-content: center;
 text-align: center;
+padding-left: 140px;
 }   
 .h-11{
 font-size: 50px;
@@ -447,33 +456,34 @@ font-weight: bold;
 font-size: 22px;
 }
 .chaild-26{
+  width: 500px;
   display:flex;
-width: 600px;
-height: 56px;
+height: 50px;
 background-color: #FFFFFF;
-margin-left: 250px;
+padding-left: 50px;
 
 }
 .div-box{
   display: flex;
   border-radius: 25px;
-
+padding-left: 50px;
 }
 .input-1{
+
 border: none;
-font-size: 20px;
-margin-right: 450px;
-margin-top: 20px;
-margin-bottom: 20px;
-margin-left: 20px;
+font-size: 15px;
+display: inline-flex;
+text-align: center;
+justify-content: center;
+
 }
 .p-tage4{
   margin-top: 50px;
   font-size: 25px;
 }
 .button-8{
-width:150px ;
-height: 56px;
+width:120px ;
+height: 50px;
 background-color:#006A50 ;
 color: #FFFFFF;
 margin-bottom: 20px;
@@ -482,20 +492,26 @@ border: none;
 }
 .h-12{
 font-weight: bold;
-margin-left: 1200px;
-margin-top: 150px;
+display: flex;
+justify-content: center;
+margin:50px auto;
 }
 .hr{
-  width: 1200px;
+  width: 60%;
   
 }
 .icon{
-  margin-left:1200px ;
+ margin: auto;
+display: flex;
+justify-content: center;
 
 }
 .icon i{
-  
+  padding-bottom: 100px;
   margin-right: 10px;
  
-font-size: 50px;
+font-size: 30px;
+}
+.section00{
+  margin-bottom: 1000px;
 }
