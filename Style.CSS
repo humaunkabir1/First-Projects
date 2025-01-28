@@ -317,9 +317,9 @@ align-items: center;
   float:left;
   width: 408px;
   height: 306px;
-border-radius: 25px 25px 25px 25px;
-margin-right: 20px;
-margin-bottom: 20px;
+  border-radius: 25px;
+  margin-right: 20px;
+  margin-bottom: 20px;
 }
 
 .parent-6{
@@ -357,12 +357,11 @@ padding: 30px;
 margin-top: 50px;
 }
 .img-4{
-  float:right ;
-  width: 408px;
-  height: 306px;
-border-radius: 25px;
-
+    width: 408px;
+    height: 306px;
 }
+
+
 .h1-4{
   margin-left:800px ;
 margin-top: 20px;
