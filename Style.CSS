@@ -317,10 +317,11 @@ align-items: center;
   float:left;
   width: 408px;
   height: 306px;
-  border-radius: 25px;
+  border-radius: 20px;
   margin-right: 20px;
   margin-bottom: 20px;
 }
+
 
 .parent-6{
 width: 57%;
@@ -335,50 +336,43 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   margin-top: 50px;
 }
 .button-6{
-
-  background-color: #006A50;
+background-color: #006A50;
   width: 139px;
   height: 48px;
   color: #FFFFFF;
- 
   border-radius: 15px;
   font-size: 15px;
 }
 .parent-7{
-  width: 57%;
-  height: 350px;
+width: 57%;
+height: 350px;
 padding: 30px;
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-    background-color: #FFFFFF;
-    border-radius:10px ;
-    margin:50px auto;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+background-color: #FFFFFF;
+border-radius: 10px;
+margin: 50px auto;
 }
 .chaild-20{
-margin-top: 50px;
+  margin-top: 50px;
 }
 .img-4{
-    width: 408px;
-    height: 306px;
+  float:right;
+  width: 408px;
+  height: 306px;
+  border-radius: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
 }
-
-
 .h1-4{
-  margin-left:800px ;
-margin-top: 20px;
+margin-left: 380px;
 }
 .p-tage3{
-  margin-left: 400px;
-  font-size: 20px;
+  margin-left: 380px;
 }
-
 .parent-8{
 display:inline-flex;
 margin-left: 325px;
-
-
 }
-
-
 .chaild-21{
   display: inline-flex;
   background-color: #FFFFFF;
