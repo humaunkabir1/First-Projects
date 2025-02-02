@@ -610,10 +610,10 @@
 
 
 
-@media only screen and (max-width: 575px) {
+@media only screen and (max-width: 500px) {
   .h1-1 {
-    font-size: 15px;
-    margin: 35px;
+    font-size: 10px;
+    margin: 10px;
     font-weight: bold;
 
   }
@@ -665,7 +665,7 @@
   }
 
   .h1-2 {
-    margin: 35px;
+    margin: 10px;
     font-size: 15px;
   }
 
@@ -698,7 +698,7 @@
   }
 
   .p-regular {
-    font-size: 8px;
+    font-size: 5px;
     margin-left: 5px;
     margin-bottom: 5px;
   }
@@ -728,7 +728,7 @@
   }
 
   .header {
-    margin-left: 35px;
+    margin-left: 10px;
     font-size: 10px;
   }
 
@@ -766,12 +766,12 @@
   .pp-bold {
     padding-left: 1px;
     font-weight: bold;
-    font-size: 10px;
+    font-size: 8px;
   }
 
   .pp-regular {
     padding-left: 5px;
-    font-size: 8px;
+    font-size: 5px;
   }
 
   .button-22 {
@@ -863,8 +863,8 @@
   }
 
   .h-3 {
-    margin-left: 35px;
-    font-size: 15px;
+    margin-left: 10px;
+    font-size: 10px;
     font-weight: bold;
   }
 
